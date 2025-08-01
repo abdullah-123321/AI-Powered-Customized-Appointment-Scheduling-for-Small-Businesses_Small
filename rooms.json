@@ -1,0 +1,36 @@
+[
+  {
+    "number": "101",
+    "status": "occupied",
+    "type": "single",
+    "price": 100,
+    "user_id": "5678"
+  },
+  {
+    "number": "102",
+    "status": "occupied",
+    "type": "single",
+    "price": 100
+  },
+  {
+    "number": "201",
+    "status": "occupied",
+    "type": "double",
+    "price": 150,
+    "user_id": "5678"
+  },
+  {
+    "number": "202",
+    "status": "occupied",
+    "type": "double",
+    "price": 150,
+    "user_id": "5678"
+  },
+  {
+    "number": "301",
+    "status": "occupied",
+    "type": "suite",
+    "price": 250,
+    "user_id": "5678"
+  }
+]
