@@ -1,36 +1,36 @@
 [
   {
-    "number": "101",
-    "status": "occupied",
-    "type": "single",
-    "price": 100,
-    "user_id": "5678"
+    "item_id": "101",
+    "status": "in_stock",
+    "category": "fruit",
+    "price": 1.5,
+    "store_id": "5678"
   },
   {
-    "number": "102",
-    "status": "occupied",
-    "type": "single",
-    "price": 100
+    "item_id": "102",
+    "status": "out_of_stock",
+    "category": "fruit",
+    "price": 1.2
   },
   {
-    "number": "201",
-    "status": "occupied",
-    "type": "double",
-    "price": 150,
-    "user_id": "5678"
+    "item_id": "201",
+    "status": "in_stock",
+    "category": "vegetable",
+    "price": 2.0,
+    "store_id": "5678"
   },
   {
-    "number": "202",
-    "status": "occupied",
-    "type": "double",
-    "price": 150,
-    "user_id": "5678"
+    "item_id": "202",
+    "status": "in_stock",
+    "category": "vegetable",
+    "price": 2.5,
+    "store_id": "5678"
   },
   {
-    "number": "301",
-    "status": "occupied",
-    "type": "suite",
-    "price": 250,
-    "user_id": "5678"
+    "item_id": "301",
+    "status": "in_stock",
+    "category": "dairy",
+    "price": 3.5,
+    "store_id": "5678"
   }
 ]
